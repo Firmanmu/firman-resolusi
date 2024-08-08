@@ -3,7 +3,7 @@ RENCENA NGODING
 -Laravel
 -Python
 -CSS
--Angular
--Bootstrap
--Database
--Html
+-Struktur data
+-Nextjs
+-React
+
