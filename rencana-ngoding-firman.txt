@@ -1,0 +1,5 @@
+RENCENA NGODING
+-PHP
+-Javascript
+-Laravel
+-Python
