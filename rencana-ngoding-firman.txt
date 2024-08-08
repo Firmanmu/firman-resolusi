@@ -6,3 +6,4 @@ RENCENA NGODING
 -CSS
 -Struktur data
 -Nextjs
+-React
