@@ -1,6 +1,9 @@
 RENCENA NGODING
--PHP
 -Javascript
 -Laravel
 -Python
 -CSS
+-Angular
+-Bootstrap
+-Database
+-Html
